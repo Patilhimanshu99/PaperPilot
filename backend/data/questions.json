@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is the main contribution of this paper?",
+    "relevant_pages": [{"paper": "sample.pdf", "page": 1}],
+    "answerable": true
+  },
+  {
+    "question": "What dataset was used for evaluation?",
+    "relevant_pages": [{"paper": "sample.pdf", "page": 4}],
+    "answerable": true
+  },
+  {
+    "question": "What is the recipe for chocolate cake?",
+    "relevant_pages": [],
+    "answerable": false
+  }
+]

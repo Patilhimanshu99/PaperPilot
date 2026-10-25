@@ -1,0 +1,23 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+backend/.env
+frontend/.env
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node.js dependencies
+node_modules/
+
+# Frontend build output
+frontend/dist/
+dist/
+build/
+
+# Local research paper uploads
+backend/data/papers/

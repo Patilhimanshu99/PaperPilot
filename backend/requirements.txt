@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+pymupdf
+scikit-learn
+rank-bm25
+sentence-transformers
+faiss-cpu
+numpy
+requests
+pytest
